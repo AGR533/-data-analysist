@@ -1,4 +1,4 @@
-# -data-analysist
+# data-analysist
 Exploratory Data Analysis on Telecom Customer Churn dataset — BIT 4.1 Assignment 2
 # Think Like a Data Analyst — Assignment 2
 
